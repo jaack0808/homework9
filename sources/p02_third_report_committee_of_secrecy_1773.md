@@ -1,0 +1,73 @@
+# House of Commons, *Third Report from the Committee of Secrecy appointed to enquire into the State of the East India Company* (London, 1773) — Appendix accounts
+
+- Type: PRIMARY (parliamentary report reproducing the Company's own accounts, signed
+  4 Feb 1773 by R. Tookey, Deputy Accomptant, with John Hoole, Auditor of Indian Accounts).
+  Language: English.
+- Fetched: https://icvtesting.nvli.in/system/files/nvli_pdfs/AS-005168_Part-ii.pdf
+  (National Virtual Library of India scan, OCR). 352,499 characters; first 100k read.
+- Table heading (raw OCR): "Dates when commenced and ended. Dividends to the Proprietors,
+  and at what Rate per Cent. Race o f Intereft received from ___ Balances o f Annual Accounts,"
+
+## Raw OCR rows, 1720–1756 (copied exactly, OCR errors retained)
+
+```
+D itto 1720 to Ditto 1721 at io D °  - _ _ - - D* - - 3 19 ,4 0 8 - Q*
+Ditto 1721 to Ditto 1722 at 10D* - - -  .  - D° - - 3 19 ,4 0 8 ____ . . .  r>°
+Ditto 1722 to Ditto 1723 at 8D ° - _ .  - .  D° - - 255,526 8 —  - - - D 4 r ?
+D itto 1723 to D itto 17 2 4 3 1  8 D° - _ .  _ - D* - - 255^526 s —  - - - D° 2 -
+Ditto 1724 to Ditto 1725 at 8 D ° ...........D° - - 255,526 8 —  - -  - D* m :
+D itto 1725 to D itto 1726 at 8 D ° ..........D u - - 255,526 8 —  .  - - D° >
+D itto 1726 to Ditto 1727 at 8D° - - -  - -  D ' - - 255,526 8 —  - - .  D°
+Ditto 1727 to Ditto 1728 at 8 D° - _ - .  - D c -  - 255,526 8 —  . . .  D “
+Ditto 1728 to Ditto 1729 at 8 D ° ...........D a - - 255,526 g —  .  _ O
+[1729–1731 row illegible in OCR]
+Ditto 1731 to Ditto 1732 at 8 D a ...........D° - - 255,526 8 —  - . - D ‘ ...
+Ditto 1732 to D itto 1733 at 7 D ' ..........D° - - 223,585 12 —  - - .  D® . 3
+D itto 1733 to Ditto 1734 at 7 D 9 ..........D° - - 223,585 la ...
+D itto 1734 to Ditto 1735 at 7 D c ..........D° - - 223,585 12 — ...
+Ditto 1735 to Dirto 1736 at 7 D 0 ..........D° -  - 223,585 12 — ...
+Ditto 1736 to Ditto 1737 at 7 B 0 ..........D° .  - 223,585 12 — ...
+D itto 1737 to Ditto J738 «  7 D 3 ..........D° ,  - 223,58c 12 — ...
+D itto 1738 to Ditto i739  at 7 D * ........D? - - 2 2 3 ,5 8 5 1 2 — ...
+D itto  1740 to Ditto 1741 at 7 D° ........D° - - 223,585 12 — ...
+D itto 1741 to Ditto 1742 at 7 D° ........D° - - 223,585 12 — ...
+D itto 1742 to D itto 1743 at 7 D* ........D° - - 223,585 12 — ...
+Ditro 1743 to Ditto 1744 at 8 D** ........I)* - 255,526 8 ...
+D itto 1744 to D itto 1745 at 8 D° ........D° - - 255,526 8 ~  A t  4 per Cent, per Ann. on £.3,200,000 ...
+D itto 1745 to D itto 1746 at 8 D° ........P °  - - -  -255,526 ~8~ A t 4 per Cent, per Apn. on £.3,200,000 ...
+D itto 1746 to Ditto 1747 at 8 D° ........D° - - 255,526. 8 — ...
+D itto 1747 to D itto 1748 at 8 D° ........D° - - 255,526. 8 — ...
+D itto 1748 to Ditto 1749 ait 8 D “ ......D° - - 255,526 & — ...
+D itto 1749 to D itto 1750 at 8 D 0 ......D° - - 255,526 S — ...
+D itto 1750 to D itto 1751 at 8 D° .......D  - - 255,526 8 — ... to Chriftmas 1750
+D itto 1751 to D itto 1752 at 8 D° ...
+D itto 1752 to Ditto 1753 at 8 D° ...
+D itto 1753 to D itto 1754 at 8 D° ...
+D itto 1754  to D itto 1755 at 8 D* ...
+Ditto *755 to Chriftmas *755 at 8 D° - - - - D° - - 127,763 4 — ...
+Chriftmas 1755 to Midfummer I7 5 ̂ at 6 D° - - - -  - D° - - 95,822 8 at 3 per Cent, per Annum, on £, 4,200.000.
+```
+
+Also on the 1744 loan (around the 1744–45 rows, OCR): "At 4 per Cent. per Ann. on
+£3,200,000, and 3 per Cent per Ann. on £1,000,000 lent Government, in Consideration of
+which they were empowered to borrow a like Sum under their Common [Seal]".
+
+## Arithmetic check
+
+- 8% of capital = £255,526 8s → capital = £3,194,080 (matches the EIC's £3.19m stock).
+- 7% of capital = £223,585 12s → 223,585.6 / 0.07 = £3,194,080. ✔ Rows are internally consistent.
+
+## Used for
+
+- EIC dividend: **10%** to 1722; **8%** 1722/3–1731/2; **7%** 1732/3–1742/3; **8%** 1743/4–1754/5;
+  cut to 6% only from Christmas 1755 (after the ancestor's window).
+- So the dividend never stopped during the 1745 rebellion or the loss of Madras.
+- Government paid the Company 4% on £3.2m plus 3% on the £1m lent in 1744 — part of the
+  EIC's income was a safe claim on the British state.
+
+## Verification
+
+Read raw OCR rows myself (above). The 1729–31 row is illegible; it is bracketed by 8% rows
+on both sides and the secondary summary of the same table gives 8% for 1722–1732, so 8%
+is assumed. Beach et al. (s02) independently say EIC dividends were "either £4 or £3.5"
+(i.e., half-yearly 8% or 7%).
